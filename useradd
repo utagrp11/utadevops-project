@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -la
+who -b
+uptime
+date
+cat /etc/passwd
